@@ -7300,7 +7300,6 @@
     {"id":{"name":"font0","path":"fonts/font0/font0.yy",},"order":0,},
     {"id":{"name":"font1","path":"fonts/font1/font1.yy",},"order":0,},
     {"id":{"name":"font2","path":"fonts/font2/font2.yy",},"order":0,},
-    {"id":{"name":"Steamworks","path":"extensions/Steamworks/Steamworks.yy",},"order":0,},
     {"id":{"name":"gameframe_native","path":"extensions/gameframe_native/gameframe_native.yy",},"order":0,},
     {"id":{"name":"fmod_gms","path":"extensions/fmod_gms/fmod_gms.yy",},"order":0,},
     {"id":{"name":"tile_beachprops1","path":"sprites/tile_beachprops1/tile_beachprops1.yy",},"order":0,},
